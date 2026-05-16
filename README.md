@@ -5,10 +5,7 @@ Kharido.in is a full-stack e-commerce platform named **Kharido.in**, offering pr
 
 ---
 
-## 🌐 Live Preview
 
-- 🧑‍💻 **User Site**: [https://khaidoin.netlify.app](https://khaidoin.netlify.app)  
-- 🛠️ **Admin Dashboard**: [https://courageous-heliotrope-f1246e.netlify.app](https://courageous-heliotrope-f1246e.netlify.app)
 
 ---
 
